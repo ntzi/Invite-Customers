@@ -35,12 +35,12 @@ A service able to determine whether a customer is close enough to get an invitat
 
     $ npm run dev
 
-## Test
 
+## Test
 ### Prerequisites
 
 * mocha
-
+* chai
 
 ### Run tests
 
@@ -49,4 +49,4 @@ A service able to determine whether a customer is close enough to get an invitat
 
 ## Authors
  
- * **Nikos Tziralis** - *Initial work* - [Phone Book](https://github.com/ntzi/Invite-Customers.git)
+ * **Nikos Tziralis** - *Initial work* - [Invite Customers](https://github.com/ntzi/Invite-Customers.git)
